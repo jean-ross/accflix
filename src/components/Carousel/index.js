@@ -2,7 +2,7 @@ import React from 'react';
 import { VideoCardGroupContainer, Title, ExtraLink } from './styles';
 import VideoCard from './components/VideoCard';
 import Slider, { SliderItem } from './components/Slider';
-8
+
 function Carousel({
   ignoreFirstVideo,
   category,
